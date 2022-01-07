@@ -1,0 +1,124 @@
+body{
+    font-family:'Poppins', sans-serif;
+    margin: 0;
+}
+.jawwad{
+    color: orange;
+    font-size: 50px;
+}
+/* h1{
+    
+    font-size: 50px;
+} */
+.half-width{
+    width: 50%;
+    margin: 5px;
+    padding: 2px;
+}
+.blank{
+    color: white;
+}
+.half-width img{
+    height: 100%;
+    width: 100%;
+}
+section{
+    display:flex;
+    margin-bottom: 150px;
+    padding: 2px;
+    margin: 5px;
+}
+.cointainer{
+    display: flex;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.css{
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(salmon, tomato);
+    border-radius: 5px;
+}
+.heder{
+    background-image: url(images/header-bg.png);
+    background-repeat:no-repeat ;
+}
+.h{
+    text-align: center;
+    color: pink;
+    font-size: 50px;
+}
+.boost{
+    text-align: center;
+    font-size: 30px;
+}
+.m{
+    text-align: center;
+}
+.text{
+    text-align: center;
+}
+.cointainer{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+#jamai{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin: 10px;
+    
+}
+#ami{
+    background-color: lightpink;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin: 10px;
+}
+#you{
+    background-color: lightyellow;
+    border-radius: 10px;
+    padding-left: 20px;
+    margin: 10px;
+}
+.cointainer{
+    background-image: url(images2/dream-bg.png);
+    background-position: left;
+}
+#coding{
+    width:30%;
+    padding-left: 100px;
+}
+.boy{
+    padding-left: 10%;
+}
+.js{
+    padding: 5px 10px;
+    margin: 50px;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient( 45deg, salmon, tomato);
+    border-radius: 5px;
+}
+.ammar{
+    background-image: url(images2/shape-3.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+span{
+    color: orange;
+}
+.saif{
+    text-align: center;
+}
+.salim{
+    text-align: center;
+}
+.slice{
+    border-left: 5px solid;
+    border-image: linear-gradient(tomato,salmon);
+    border-image-slice:1;
+}
